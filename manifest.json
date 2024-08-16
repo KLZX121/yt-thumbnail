@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "YT Thumbnail",
+    "description": "Chrome extension that displays the current YouTube video's thumbnail",
+    "version": "1.0",
+    "action": {
+        "default_popup": "main.html"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
